@@ -1,4 +1,12 @@
-# Projeto
+# Tria
+
+## Integrantes do Projeto
+
+| Nome             | RM       |
+|------------------|----------|
+| Alice Nunes      | 559052   |
+| Anne Rezendes    | 556779   |
+| Guilherme Akira  | 556128   |
 
 ## Links Importantes
 
